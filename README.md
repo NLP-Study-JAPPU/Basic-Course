@@ -17,7 +17,6 @@
   > 
   > - Date : 2024.01.02 
   > - Presentor : 유하영
-</br>
 
 - #### 01 : Distributed Representations of Words and Phrases and their Compositionality
   > [Paper](https://arxiv.org/pdf/1310.4546.pdf), Presentation</br>
@@ -26,7 +25,6 @@
   > - Keywords : `Word2vec`
   > - Date : 2024.01.11
   > - Presentor : 황현태
-</br>
 
 - #### 02 : Distributed Representations of Words and Phrases and their Compositionality
   > [Paper](https://nlp.stanford.edu/pubs/glove.pdf), Presentation</br> 
@@ -35,7 +33,6 @@
   > - Keywords : `GloVe`
   > - Date : 2024.01.11
   > - Presentor : 유하영
-</br>
 
 - #### 03 : Distributed Representations of Words and Phrases and their Compositionality
   > [Paper]( ), Presentation</br> 
@@ -44,7 +41,11 @@
   > - Keywords : `FastText`
   > - Date : 2024.01.11
   > - Presentor : 오원준
-</br>
+
+
+
+
+
 
 
 
