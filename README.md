@@ -3,7 +3,7 @@
 </br></br>
 
 ## 개요
-* Goal : 논문을 통한 자연어처리 이해 및 기술 구현
+* Goal : **논문을 통한 자연어처리 이해 및 기술 구현**
 * Participants : 유하영, 황현태, 오원준
 * Start Date : 2024.01.02
 * Meeting Date : 매주 목요일 11:00.AM
@@ -37,6 +37,14 @@
   > - Presentor : 유하영
 </br>
 
+- 03 : Distributed Representations of Words and Phrases and their Compositionality
+  > [Paper]( ), Presentation</br> 
+  > `(저자/연도)`
+  >
+  > - Keywords : `FastText`
+  > - Date : 2024.01.11
+  > - Presentor : 오원준
+</br>
 
 
 
