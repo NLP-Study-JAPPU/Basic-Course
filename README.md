@@ -11,7 +11,7 @@ Meeting Date : 매주 목요일 11:00.AM
 # Summary
 
 * 00 : OT</br>
-> - Presentation</br>
+>   - Presentation</br>
 > 
 > - Keywords: </br>
 > - Date : 2024.01.02</br>
