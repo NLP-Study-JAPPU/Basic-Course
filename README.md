@@ -17,23 +17,26 @@
   > - Presentor : 유하영
 </br>
 
-* 01 : Distributed Representations of Words and Phrases and their Compositionality
-> [Paper](https://arxiv.org/pdf/1310.4546.pdf), Presentation</br>
-> Mikolov, Tomas, et al. Advances in neural information processing systems 26 (2013).</br>
-> 
-> Keywords : `Word2vec`</br> 
-> Date : 2024.01.11</br> 
-> Presentor : 황현태</br> 
+- 01 : Distributed Representations of Words and Phrases and their Compositionality
+  > - [Paper](https://arxiv.org/pdf/1310.4546.pdf), Presentation</br>
+  > Mikolov, Tomas, et al. Advances in neural information processing systems 26 (2013).</br>
+  >
+  > - Keywords : `Word2vec`</br> 
+  > - Date : 2024.01.11</br> 
+  > - Presentor : 황현태
 </br>
 
-* 02 : GloVe: Global Vectors for Word Representation
-and their Compositionality
-> [Paper](https://nlp.stanford.edu/pubs/glove.pdf), Presentation</br> 
-> Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. 2014.</br>
-
-> Keywords : `GloVe`</br> 
-> Date : 2024.01.11</br> 
-> Presentor : 유하영</br> 
+- 02 : Distributed Representations of Words and Phrases and their Compositionality
+  > - [Paper](https://nlp.stanford.edu/pubs/glove.pdf), Presentation</br> 
+  > Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. 2014.</br>
+  >
+  > - Keywords : `GloVe`</br> 
+  > - Date : 2024.01.11</br> 
+  > - Presentor : 유하영
 </br>
+
+
+
+
 
 
