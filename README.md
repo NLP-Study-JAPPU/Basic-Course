@@ -18,10 +18,9 @@
   Presentor : 유하영
 </br>
 
-* 01 : Distributed Representations of Words and Phrases
-and their Compositionality
-> [Paper](https://arxiv.org/pdf/1310.4546.pdf), Presentation</br> 
-> 
+* 01 : Distributed Representations of Words and Phrases and their Compositionality
+> [Paper](https://arxiv.org/pdf/1310.4546.pdf), Presentation</br>
+> Mikolov, Tomas, et al. "Distributed representations of words and phrases and their compositionality." Advances in neural information processing systems 26 (2013).
 > Keywords: `Word2vec`</br> 
 > Date : 2024.01.11</br> 
 > Presentor : 황현태</br> 
