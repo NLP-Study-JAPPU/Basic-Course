@@ -12,18 +12,19 @@
 
 ## Paper List
 - 00 : OT 
-  > - Presentation </br>
-  > - Keywords : </br>
-  > - Date : 2024.01.02 </br>
+  > Presentation 
+  > Keywords :
+  > 
+  > - Date : 2024.01.02 
   > - Presentor : 유하영
 </br>
 
 - 01 : Distributed Representations of Words and Phrases and their Compositionality
-  > [Paper](https://arxiv.org/pdf/1310.4546.pdf), Presentation </br>
+  > [Paper](https://arxiv.org/pdf/1310.4546.pdf), Presentation 
   > Mikolov, Tomas, et al. Advances in neural information processing systems 26 (2013).
   >
-  > - Keywords : `Word2vec`</br> 
-  > - Date : 2024.01.11</br> 
+  > - Keywords : `Word2vec`
+  > - Date : 2024.01.11
   > - Presentor : 황현태
 </br>
 
