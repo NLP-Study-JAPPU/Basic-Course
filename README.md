@@ -28,7 +28,8 @@
 * 02 : GloVe: Global Vectors for Word Representation
 and their Compositionality
 > [Paper](https://nlp.stanford.edu/pubs/glove.pdf), Presentation</br> 
-> Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. 2014.</br> </br> 
+> Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. 2014.</br>
+
 > Keywords : `GloVe`</br> 
 > Date : 2024.01.11</br> 
 > Presentor : 유하영</br> 
