@@ -11,7 +11,7 @@
 
 
 ## Paper List
-- **00 : OT**
+- #### 00 : OT
   > Presentation 
   > Keywords :
   > 
@@ -28,7 +28,7 @@
   > - Presentor : 황현태
 </br>
 
-- **02 : Distributed Representations of Words and Phrases and their Compositionality**
+- #### 02 : Distributed Representations of Words and Phrases and their Compositionality
   > [Paper](https://nlp.stanford.edu/pubs/glove.pdf), Presentation</br> 
   > Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. 2014.
   >
@@ -37,7 +37,7 @@
   > - Presentor : 유하영
 </br>
 
-- **03 : Distributed Representations of Words and Phrases and their Compositionality**
+- #### 03 : Distributed Representations of Words and Phrases and their Compositionality
   > [Paper]( ), Presentation</br> 
   > `(저자/연도)`
   >
