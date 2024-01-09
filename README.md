@@ -19,7 +19,8 @@
 
 * 01 : Distributed Representations of Words and Phrases and their Compositionality
 > [Paper](https://arxiv.org/pdf/1310.4546.pdf), Presentation</br>
-> Mikolov, Tomas, et al. Advances in neural information processing systems 26 (2013).</br> 
+> Mikolov, Tomas, et al. Advances in neural information processing systems 26 (2013).</br>
+> 
 > Keywords : `Word2vec`</br> 
 > Date : 2024.01.11</br> 
 > Presentor : 황현태</br> 
