@@ -20,7 +20,7 @@
 </br>
 
 - 01 : Distributed Representations of Words and Phrases and their Compositionality
-  > [Paper](https://arxiv.org/pdf/1310.4546.pdf), Presentation 
+  > [Paper](https://arxiv.org/pdf/1310.4546.pdf), Presentation</br>
   > Mikolov, Tomas, et al. Advances in neural information processing systems 26 (2013).
   >
   > - Keywords : `Word2vec`
@@ -29,11 +29,11 @@
 </br>
 
 - 02 : Distributed Representations of Words and Phrases and their Compositionality
-  > - [Paper](https://nlp.stanford.edu/pubs/glove.pdf), Presentation</br> 
+  > [Paper](https://nlp.stanford.edu/pubs/glove.pdf), Presentation</br> 
   > Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. 2014.
   >
-  > - Keywords : `GloVe`</br> 
-  > - Date : 2024.01.11</br> 
+  > - Keywords : `GloVe`
+  > - Date : 2024.01.11
   > - Presentor : 유하영
 </br>
 
