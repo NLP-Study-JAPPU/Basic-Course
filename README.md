@@ -7,13 +7,12 @@
 * Participants : 유하영, 황현태, 오원준
 * Start Date : 2024.01.02
 * Meeting Date : 매주 목요일 11:00.AM
-* - ㅇㄴㄴ
 </br></br>
 
 ## Paper List
 
 * 00 : OT</br>
->   - Presentation</br>
+- Presentation</br>
 - Keywords: </br>
 - Date : 2024.01.02</br>
   Presentor : 유하영</br>
