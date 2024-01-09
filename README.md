@@ -12,17 +12,17 @@
 ## Paper List
 
 * 00 : OT</br>
-  - Presentation
--  Keywords:
--  Date : 2024.01.02 
--  Presentor : 유하영
+>  - Presentation
+  -  Keywords:
+  -  Date : 2024.01.02 
+  -  Presentor : 유하영
 </br>
 
 * 01 : Distributed Representations of Words and Phrases
 and their Compositionality
 > [Paper](https://arxiv.org/pdf/1310.4546.pdf), Presentation
 > 
-> Keywords: Word2vec
+> Keywords: `Word2vec`
 > Date : 2024.01.11
 > Presentor : 황현태
 </br>
@@ -31,7 +31,7 @@ and their Compositionality
 and their Compositionality
 > [Paper](https://nlp.stanford.edu/pubs/glove.pdf), Presentation
 > Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. 2014.
-> Keywords: GloVe
+> Keywords: `GloVe`
 > Date : 2024.01.11
 > Presentor : 유하영
 </br>
