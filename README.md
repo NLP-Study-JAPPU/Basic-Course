@@ -10,15 +10,15 @@ Meeting Date : 매주 목요일 11:00.AM
 
 # Summary
 
-- 00 : OT
-> Presentation
+* 00 : OT</br>
+> - Presentation</br>
 > 
-> Keywords: 
-> Date : 2024.01.02
-> Presentor : 유하영
+> - Keywords: </br>
+> - Date : 2024.01.02</br>
+> - Presentor : 유하영</br>
 </br>
 
-- 01 : Distributed Representations of Words and Phrases
+* 01 : Distributed Representations of Words and Phrases
 and their Compositionality
 > Paper, Presentation
 > S. Hochreiter, J. Schmidhuber, Neural Computation 1997
@@ -27,7 +27,7 @@ and their Compositionality
 > Presentor : 황현태
 </br>
 
-- 02 : GloVe: Global Vectors for Word Representation
+* 02 : GloVe: Global Vectors for Word Representation
 and their Compositionality
 > [Paper]: https://nlp.stanford.edu/pubs/glove.pdf, [Presentation]
 > S. Hochreiter, J. Schmidhuber, Neural Computation 1997
@@ -37,8 +37,3 @@ and their Compositionality
 </br>
 
 
-|제목|내용|설명|
-|------|---|:---:|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
