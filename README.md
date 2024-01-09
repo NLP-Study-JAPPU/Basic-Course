@@ -10,12 +10,11 @@
 </br></br>
 
 ## Paper List
-
-* 00 : OT 
->   * Presentation </br>
->   * Keywords: </br>
->   - Date : 2024.01.02 </br>
->   - Presentor : 유하영
+- 00 : OT 
+  > - Presentation </br>
+  > - Keywords: </br>
+  > - Date : 2024.01.02 </br>
+  > - Presentor : 유하영
 </br>
 
 * 01 : Distributed Representations of Words and Phrases and their Compositionality
