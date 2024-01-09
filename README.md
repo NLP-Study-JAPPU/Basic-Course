@@ -11,9 +11,10 @@
 # Summary
 
 - 00 : OT</br>
->   - Presentation</br>> - Keywords: </br>
+>   - Presentation</br>
+- Keywords: </br>
 - Date : 2024.01.02</br>
-Presentor : 유하영</br>
+  Presentor : 유하영</br>
 </br>
 
 * 01 : Distributed Representations of Words and Phrases
@@ -27,7 +28,7 @@ and their Compositionality
 
 * 02 : GloVe: Global Vectors for Word Representation
 and their Compositionality
-> [Paper]: https://nlp.stanford.edu/pubs/glove.pdf, [Presentation]
+> [Paper]: (https://nlp.stanford.edu/pubs/glove.pdf), [Presentation]
 > S. Hochreiter, J. Schmidhuber, Neural Computation 1997
 > Keywords: GloVe
 > Date : 2024.01.11
