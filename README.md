@@ -11,8 +11,8 @@
 
 ## Paper List
 
-> * 00 : OT
-    - Presentation</br>
+* 00 : OT > 
+- Presentation</br>
     -  Keywords:</br>
     -  Date : 2024.01.02 </br>
     -  Presentor : 유하영
