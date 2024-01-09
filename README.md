@@ -11,9 +11,9 @@
 # Summary
 
 - 00 : OT</br>
-> - Presentation</br>> - Keywords: </br>
-> - Date : 2024.01.02</br>
-> - Presentor : 유하영</br>
+>   - Presentation</br>> - Keywords: </br>
+- Date : 2024.01.02</br>
+Presentor : 유하영</br>
 </br>
 
 * 01 : Distributed Representations of Words and Phrases
