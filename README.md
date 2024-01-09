@@ -9,6 +9,7 @@
 * Meeting Date : 매주 목요일 11:00.AM
 </br></br>
 
+
 ## Paper List
 - 00 : OT 
   > - Presentation </br>
@@ -18,8 +19,8 @@
 </br>
 
 - 01 : Distributed Representations of Words and Phrases and their Compositionality
-  > - [Paper](https://arxiv.org/pdf/1310.4546.pdf), Presentation</br>
-  > Mikolov, Tomas, et al. Advances in neural information processing systems 26 (2013).</br>
+  > [Paper](https://arxiv.org/pdf/1310.4546.pdf), Presentation </br>
+  > Mikolov, Tomas, et al. Advances in neural information processing systems 26 (2013).
   >
   > - Keywords : `Word2vec`</br> 
   > - Date : 2024.01.11</br> 
@@ -28,7 +29,7 @@
 
 - 02 : Distributed Representations of Words and Phrases and their Compositionality
   > - [Paper](https://nlp.stanford.edu/pubs/glove.pdf), Presentation</br> 
-  > Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. 2014.</br>
+  > Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. 2014.
   >
   > - Keywords : `GloVe`</br> 
   > - Date : 2024.01.11</br> 
