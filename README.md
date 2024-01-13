@@ -34,9 +34,9 @@
   > - Presentor : 유하영
 
 - #### 03 : Distributed Representations of Words and Phrases and their Compositionality
-  > [Paper]( ), Presentation</br> 
+  > [Paper](https://aclanthology.org/Q17-1010.pdf), [Presentaion](https://ownogatari.xyz/posts/fasttext/)</br> 
   > `(저자/연도)`
-  >
+  > P. Bojanowski, E. Grave, A. Joulin, and T. Mikolov, “Enriching Word Vectors with Subword Information,” Transactions of the Association for Computational Linguistics, vol. 5, pp. 135–146, 2017
   > - Keywords : `FastText`
   > - Date : 2024.01.11
   > - Presentor : 오원준
