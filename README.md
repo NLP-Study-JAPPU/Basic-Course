@@ -12,7 +12,7 @@
 
 ## Paper List
 - #### 00 : OT
-  > Presentation 
+  > [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/OT.pdf) 
   > 
   > - Date : 2024.01.02 
   > - Presentor : 유하영
@@ -35,11 +35,29 @@
 
 - #### 03 : Distributed Representations of Words and Phrases and their Compositionality
   > [Paper](https://aclanthology.org/Q17-1010.pdf), [Presentaion](https://ownogatari.xyz/posts/fasttext/)</br> 
-  > `(저자/연도)`
   > P. Bojanowski, E. Grave, A. Joulin, and T. Mikolov, “Enriching Word Vectors with Subword Information,” Transactions of the Association for Computational Linguistics, vol. 5, pp. 135–146, 2017
+  >   
   > - Keywords : `FastText`
   > - Date : 2024.01.11
   > - Presentor : 오원준
+  
+- #### 04 : Sequence to Sequence Learning with Neural Networks
+  > [Paper](https://proceedings.neurips.cc/paper_files/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf), Presentation</br> 
+  > Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. 2014.
+  >
+  > - Keywords : `seq2seq`
+  > - Date : 2024.01.18
+  > - Presentor : 유하영
+
+
+
+
+
+
+
+
+
+  
 
 
 
