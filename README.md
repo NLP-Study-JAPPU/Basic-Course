@@ -49,6 +49,13 @@
   > - Date : 2024.01.18
   > - Presentor : 유하영
 
+- #### 05 : Distributed Representations of Words and Phrases and their Compositionality
+  > [Paper](https://aclanthology.org/D14-1181.pdf), [Presentaion]([https://ownogatari.xyz/posts/fasttext/](https://ownogatari.xyz/posts/textcnn/))</br> 
+  > Yoon Kim. 2014. Convolutional Neural Networks for Sentence Classification. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 1746–1751, Doha, Qatar. Association for Computational Linguistics.
+  >   
+  > - Keywords : `FastText`
+  > - Date : 2024.01.18
+  > - Presentor : 오원준
 
 
 
