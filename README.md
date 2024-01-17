@@ -33,7 +33,7 @@
   > - Date : 2024.01.11
   > - Presentor : 유하영
 
-- #### 03 : Distributed Representations of Words and Phrases and their Compositionality
+- #### 03 : Enriching Word Vectors with Subword Information
   > [Paper](https://aclanthology.org/Q17-1010.pdf), [Presentaion](https://ownogatari.xyz/posts/fasttext/)</br> 
   > P. Bojanowski, E. Grave, A. Joulin, and T. Mikolov, “Enriching Word Vectors with Subword Information,” Transactions of the Association for Computational Linguistics, vol. 5, pp. 135–146, 2017
   >   
@@ -49,11 +49,11 @@
   > - Date : 2024.01.18
   > - Presentor : 유하영
 
-- #### 05 : Distributed Representations of Words and Phrases and their Compositionality
-  > [Paper](https://aclanthology.org/D14-1181.pdf), [Presentaion](https://ownogatari.xyz/posts/fasttext/](https://ownogatari.xyz/posts/textcnn/))</br> 
+- #### 05 : Convolutional Neural Networks for Sentence Classification.
+  > [Paper](https://aclanthology.org/D14-1181.pdf), [Presentaion](https://ownogatari.xyz/posts/textcnn/)</br> 
   > Yoon Kim. 2014. Convolutional Neural Networks for Sentence Classification. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 1746–1751, Doha, Qatar. Association for Computational Linguistics.
   >   
-  > - Keywords : `FastText`
+  > - Keywords : `TextCNN`
   > - Date : 2024.01.18
   > - Presentor : 오원준
 
