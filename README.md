@@ -42,7 +42,7 @@
   > - Presentor : 오원준
   
 - #### 04 : Sequence to Sequence Learning with Neural Networks
-  > [Paper](https://proceedings.neurips.cc/paper_files/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf), Presentation</br> 
+  > [Paper](https://proceedings.neurips.cc/paper_files/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/seq2seq_24.01.18_%EC%9C%A0%ED%95%98%EC%98%81.pdf)</br> 
   > Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. 2014.
   >
   > - Keywords : `seq2seq`
