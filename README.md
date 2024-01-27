@@ -17,9 +17,9 @@
   > - Date : 2024.01.02 
   > - Presentor : 유하영
 
-- #### 01 : Distributed Representations of Words and Phrases and their Compositionality
-  > [Paper](https://arxiv.org/pdf/1310.4546.pdf), Presentation</br>
-  > Mikolov, Tomas, et al. Advances in neural information processing systems 26 (2013).
+- #### 01 : Efficient Estimation of Word Representations in Vector Space
+  > [Paper](https://arxiv.org/pdf/1301.3781.pdf), [Blog Review](https://oneul-hyeon.tistory.com/518), [CBOW](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Code/Word2Vec/Word2Vec(CBOW).py), [Skip-gram](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Code/Word2Vec/Word2Vec(Skip_gram).py)</br>
+  > Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean.
   >
   > - Keywords : `Word2vec`
   > - Date : 2024.01.11
