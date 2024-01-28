@@ -24,6 +24,9 @@
   > - Keywords : `Word2vec`
   > - Date : 2024.01.11
   > - Presentor : 황현태
+  > - [Paper Review](https://oneul-hyeon.tistory.com/518)
+  > - [Code Review(CBOW)](https://oneul-hyeon.tistory.com/530)
+  > - [Code Review(Skip-gram)](https://oneul-hyeon.tistory.com/531)
 
 - #### 02 : Distributed Representations of Words and Phrases and their Compositionality
   > [Paper](https://nlp.stanford.edu/pubs/glove.pdf), Presentation</br> 
