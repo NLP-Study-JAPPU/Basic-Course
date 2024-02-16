@@ -1,5 +1,6 @@
 # 📰 Basic-Course for NLP
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/25014368-8dc5-4061-9963-3e48f7454da9/c35ee6a1-b049-4d61-9055-7804f41841e4/Untitled.png)
+![Untitled](https://github.com/NLP-Study-JAPPU/Basic-Course/assets/90309728/4e6b27e7-b39f-47fb-a89a-28c414a69889)
+
 
 ## Study 
 |Week|Title|Presenter|Date|
