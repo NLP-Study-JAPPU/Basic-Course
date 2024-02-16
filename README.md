@@ -14,7 +14,11 @@
 |3주차|Word2Vec|구현발표|황현태|2024/01/18|**완료**
 |3주차|seq2seq|논문발표|유하영|2024/01/18|**완료**
 
-</br></br></br>
+</br></br>
+## Paper List
+>> https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/paper-list/paper_list.md
+
+</br>
 
 
   
