@@ -21,7 +21,9 @@
 ## 😉 Member
 |.|.|.|
 |:---:|:---:|:---:|
-|유하영|황현태|___|
+|[유하영](https://github.com/Hayeonggg)|
+[황현태](https://github.com/Oneul-hyeon)|
+___|
 
 
 
