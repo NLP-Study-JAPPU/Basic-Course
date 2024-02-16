@@ -4,9 +4,9 @@
 
 ## 개요
 * Goal : **논문을 통한 자연어처리 이해 및 기술 구현**
-* Participants : 유하영, 황현태, 오원준
+* Participants : 유하영, 황현태
 * Start Date : 2024.01.02
-* Meeting Date : 매주 목요일 11:00.AM
+* Meeting Date : 매주 일요일 08:00.PM
 </br></br>
 
 
