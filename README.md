@@ -16,7 +16,7 @@
 
 </br></br>
 ## Paper List
->> https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/paper-list/paper_list.md
+> https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/paper-list/paper_list.md
 
 </br>
 
