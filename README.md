@@ -1,6 +1,6 @@
 # 📰 Basic-Course for NLP
 <p align="center">
-  <img src="https://github.com/NLP-Study-JAPPU/Basic-Course/assets/90309728/4e6b27e7-b39f-47fb-a89a-28c414a69889">
+  <img src="https://github.com/NLP-Study-JAPPU/Basic-Course/assets/90309728/4e6b27e7-b39f-47fb-a89a-28c414a69889" width="60%" height="60%">
 </p>
 
 ## Study 
