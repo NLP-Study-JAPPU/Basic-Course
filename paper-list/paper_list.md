@@ -48,6 +48,24 @@
   > - Keywords : `TextCNN`
   > - Date : 2024.01.18
   > - Presentor : 오원준
+  >
+
+- #### 06 : Sequence to Sequence Learning with Neural Networks
+  > [Paper](https://arxiv.org/pdf/1409.3215.pdf), [Presentaion]( )</br> 
+  > Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." Advances in neural information processing systems 27 (2014).
+  >   
+  > - Keywords : `Attention`
+  > - Date : 2024.02.25
+  > - Presentor : 황현태
+  >
+
+- #### 07 : Sequence to Sequence Learning with Neural Networks
+  > [Paper](https://arxiv.org/pdf/1409.3215.pdf), [Presentaion]( )</br> 
+  > Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." Advances in neural information processing systems 27 (2014).
+  >   
+  > - Keywords : `Attention`
+  > - Date : 2024.03.03
+  > - Presentor : 유하영
 
 
 
