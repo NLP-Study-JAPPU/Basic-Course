@@ -51,7 +51,7 @@
   >
 
 - #### 06 : NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
-  > [Paper](https://arxiv.org/pdf/1409.0473.pdf), [Presentaion]( )</br> 
+  > [Paper](https://arxiv.org/pdf/1409.0473.pdf), [Presentaion]()</br> 
   > Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. "Neural machine translation by jointly learning to align and translate." arXiv preprint arXiv:1409.0473 (2014). 
   > - Keywords : `Attention`
   > - Date : 2024.02.25
@@ -59,7 +59,7 @@
   >
 
 - #### 07 : NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
-  > [Paper](https://arxiv.org/pdf/1409.0473.pdf), [Presentaion]( )</br> 
+  > [Paper](https://arxiv.org/pdf/1409.0473.pdf), [Presentaion](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/Attention_24.03.03_%EC%9C%A0%ED%95%98%EC%98%81.pdf)</br> 
   > Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. "Neural machine translation by jointly learning to align and translate." arXiv preprint arXiv:1409.0473 (2014). 
   > - Keywords : `Attention`
   > - Date : 2024.03.03
