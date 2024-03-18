@@ -2,6 +2,11 @@
 <p align="center">
   <img src="https://github.com/NLP-Study-JAPPU/Basic-Course/assets/90309728/4e6b27e7-b39f-47fb-a89a-28c414a69889" width="60%" height="60%">
 </p>
+## 진행상황
+유하영 - Attention. pytorch로 구현 중(3.24 발표예정)
+황현태 - Attention. pytorch로 구현 중(3.24 발표예정)
+나보영 - 
+채주완 - 
 
 ## Study 
 |Week|Title|Type|Presenter|Date|Note|
