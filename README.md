@@ -4,8 +4,8 @@
 </p>
 
 ## 진행상황
-**유하영** - Attention. pytorch 구현 중(3.24 발표예정)</br>
-**황현태** - Attention. pytorch 구현 중(3.24 발표예정)</br>
+**유하영** - Attention 구현 중(3.24 발표예정)</br>
+**황현태** - Attention 구현 중(3.24 발표예정)</br>
 **나보영** - </br>
 **채주완** - </br>
 
