@@ -7,8 +7,9 @@
 ## 진행상황
 **유하영** - Attention 구현 중(3.24 발표예정)</br>
 **황현태** - Attention 구현 중(3.24 발표예정)</br>
-**나보영** - </br>
-**채주완** - </br>
+**나보영** - transformer 논문 리뷰(3.31 발표예정)</br>
+**채주완** - A Fast and Accurate Dependency Parser using Neural Networks (3.24 발표예정)</br>
+
 
 ## Study 
 |Week|Title|Type|Presenter|Date|Note|
