@@ -68,7 +68,7 @@
 - #### 08 : A Fast and Accurate Dependency Parser using Neural Networks
   > [Paper](https://emnlp2014.org/papers/pdf/EMNLP2014082.pdf), [Presentaion](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/AFastandAccurateDependencyParserusingNeuralNetworks_%EC%B1%84%EC%A3%BC%EC%99%84.pdf)</br> 
   > Chen, Danqi  and Manning, Christopher. "A Fast and Accurate Dependency Parser using Neural Networks" Association for Computational Linguistics 740–750(2014).
-  > - Keywords : `Word Embedding`, 'Dependency Parsing'
+  > - Keywords : `Word Embedding`, `Dependency Parsing`
   > - Date : 2024.03.24
   > - Presentor : 채주완
 
