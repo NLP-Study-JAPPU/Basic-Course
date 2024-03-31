@@ -7,7 +7,7 @@
   > - Presentor : 유하영
 
 - #### 01 : Efficient Estimation of Word Representations in Vector Space
-  > [Paper](https://arxiv.org/pdf/1301.3781.pdf), [Presentaion](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/Word2Vec_24.01.11_%E1%84%92%E1%85%AA%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB%E1%84%90%E1%85%A2.pdf), [CBOW](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Code/Word2Vec/Word2Vec(CBOW).py), [Skip-gram](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Code/Word2Vec/Word2Vec(Skip_gram).py)</br>
+  > [Paper](https://arxiv.org/pdf/1301.3781.pdf), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/Word2Vec_24.01.11_%E1%84%92%E1%85%AA%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB%E1%84%90%E1%85%A2.pdf), [CBOW](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Code/Word2Vec/Word2Vec(CBOW).py), [Skip-gram](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Code/Word2Vec/Word2Vec(Skip_gram).py)</br>
   > Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean.
   >
   > - Keywords : `Word2vec`
@@ -26,7 +26,7 @@
   > - Presentor : 유하영
 
 - #### 03 : Enriching Word Vectors with Subword Information
-  > [Paper](https://aclanthology.org/Q17-1010.pdf), [Presentaion](https://ownogatari.xyz/posts/fasttext/)</br> 
+  > [Paper](https://aclanthology.org/Q17-1010.pdf), [Presentation](https://ownogatari.xyz/posts/fasttext/)</br> 
   > P. Bojanowski, E. Grave, A. Joulin, and T. Mikolov, “Enriching Word Vectors with Subword Information,” Transactions of the Association for Computational Linguistics, vol. 5, pp. 135–146, 2017
   >   
   > - Keywords : `FastText`
@@ -42,7 +42,7 @@
   > - Presentor : 유하영
 
 - #### 05 : Convolutional Neural Networks for Sentence Classification.
-  > [Paper](https://aclanthology.org/D14-1181.pdf), [Presentaion](https://ownogatari.xyz/posts/textcnn/)</br> 
+  > [Paper](https://aclanthology.org/D14-1181.pdf), [Presentation](https://ownogatari.xyz/posts/textcnn/)</br> 
   > Yoon Kim. 2014. Convolutional Neural Networks for Sentence Classification. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 1746–1751, Doha, Qatar. Association for Computational Linguistics.
   >   
   > - Keywords : `TextCNN`
@@ -51,7 +51,7 @@
   >
 
 - #### 06 : NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
-  > [Paper](https://arxiv.org/pdf/1409.0473.pdf), [Presentaion](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/Seq2Seq_24.03.03_%E1%84%92%E1%85%AA%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB%E1%84%90%E1%85%A2.pdf)</br> 
+  > [Paper](https://arxiv.org/pdf/1409.0473.pdf), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/Seq2Seq_24.03.03_%E1%84%92%E1%85%AA%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB%E1%84%90%E1%85%A2.pdf)</br> 
   > Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. "Neural machine translation by jointly learning to align and translate." arXiv preprint arXiv:1409.0473 (2014). 
   > - Keywords : `Attention`
   > - Date : 2024.02.25
@@ -59,17 +59,23 @@
   >
 
 - #### 07 : NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
-  > [Paper](https://arxiv.org/pdf/1409.0473.pdf), [Presentaion](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/Attention_24.03.03_%EC%9C%A0%ED%95%98%EC%98%81.pdf)</br> 
+  > [Paper](https://arxiv.org/pdf/1409.0473.pdf), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/Attention_24.03.03_%EC%9C%A0%ED%95%98%EC%98%81.pdf)</br> 
   > Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. "Neural machine translation by jointly learning to align and translate." arXiv preprint arXiv:1409.0473 (2014). 
   > - Keywords : `Attention`
   > - Date : 2024.03.03
   > - Presentor : 유하영
 
 - #### 08 : A Fast and Accurate Dependency Parser using Neural Networks
-  > [Paper](https://emnlp2014.org/papers/pdf/EMNLP2014082.pdf), [Presentaion](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/AFastandAccurateDependencyParserusingNeuralNetworks_%EC%B1%84%EC%A3%BC%EC%99%84.pdf)</br> 
+  > [Paper](https://emnlp2014.org/papers/pdf/EMNLP2014082.pdf), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/AFastandAccurateDependencyParserusingNeuralNetworks_%EC%B1%84%EC%A3%BC%EC%99%84.pdf)</br> 
   > Chen, Danqi  and Manning, Christopher. "A Fast and Accurate Dependency Parser using Neural Networks" Association for Computational Linguistics 740–750(2014).
   > - Keywords : `Word Embedding`, `Dependency Parsing`
   > - Date : 2024.03.24
   > - Presentor : 채주완
 
+- #### 09 : BLEU: A METHOD FOR AUTOMATIC EVALUATION OF MACHINE TRANSLATION
+  > [Paper](https://aclanthology.org/P02-1040.pdf), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/bleuscore_%EC%B1%84%EC%A3%BC%EC%99%84.pdf)</br> 
+  > Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. "BLEU: a Method for Automatic Evaluation of Machine Translation" Computational Linguistics (ACL), Philadelphia, July 2002, pp. 311-318.
+  > - Keywords : `Machine Translation`, `MT Evaluation`, `BLEU score`
+  > - Date : 2024.03.31
+  > - Presentor : 채주완
 
