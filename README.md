@@ -7,7 +7,7 @@
 ## 진행상황
 **유하영** - transformer 논문 리뷰 (4.07 발표예정) / Attention 구현 중 ~~~ </br>
 **황현태** - Attention 구현 중 (4.07 발표예정)</br>
-**나보영** - transformer 논문 리뷰 (3.31 발표예정)</br>
+**나보영** - transformer 논문 리뷰 (발표예정)</br>
 **채주완** - transformer 논문 리뷰 (4.07 발표예정) </br>
 
 
