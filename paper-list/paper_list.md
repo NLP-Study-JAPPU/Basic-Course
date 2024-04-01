@@ -79,3 +79,10 @@
   > - Date : 2024.03.31
   > - Presentor : 채주완
 
+- #### 10 : BLEU: A METHOD FOR AUTOMATIC EVALUATION OF MACHINE TRANSLATION
+  > [Paper](https://arxiv.org/pdf/1706.03762.pdf), [Presentation]()</br> 
+  > VASWANI, Ashish, et al. Attention is all you need. Advances in neural information processing systems, 2017, 30.
+  > - Keywords : `Transformer`
+  > - Date : 2024.04.01
+  > - Presentor : 나보영
+
