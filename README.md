@@ -5,10 +5,10 @@
 (참고) - https://github.com/graykode/nlp-tutorial</br>
 
 ## 진행상황
-**유하영** - transformer 논문 리뷰 (4.07 발표예정) / Attention 구현 중 ~~~ </br>
-**황현태** - Attention 구현 중 (4.07 발표예정)</br>
-**나보영** - transformer 논문 리뷰 (발표예정)</br>
-**채주완** - transformer 논문 리뷰 (4.07 발표예정) </br>
+**유하영** - transformer 논문  - 05.05 </br>
+**황현태** - </br>
+**나보영** - </br>
+**채주완** -  </br>
 
 
 ## Study 
@@ -26,6 +26,10 @@
 |6주차|DependencyParser|논문발표|채주완|2024/03/24|**완료**
 |6주차|Attention|구현발표|황현태|2024/03/24|**완료**
 |6주차|Attention|구현발표|유하영|2024/03/24|**완료**
+|7주차|Transformer|논문발표|나보영|2024/03/31|**진행 중**
+|7주차|BLEU score|논문발표|채주완|2024/03/31|**완료**
+|8주차|Transformer|논문발표|나보영|2024/04/07|**완료**
+|8주차|Transformer|논문발표|채주완|2024/04/07|**완료**
 
 </br></br>
 ## Paper List
