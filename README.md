@@ -25,12 +25,21 @@ ___
 |4주차|Attention|구현발표|황현태|2024/04/07|**완료**
 |4주차|PPL|발표|유하영|2024/04/07|**완료**
 
-</br></br>
+</br>
 
 ## Paper List
 > https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/paper-list/paper_list.md
 
-</br></br>
+
+
+
+
+
+</br></br></br>
+
+___
+
+## Previous Study Records
 
 ## 1st Study 
 - Participants : 유하영, 황현태, 오원준
