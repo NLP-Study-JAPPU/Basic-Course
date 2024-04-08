@@ -41,7 +41,7 @@ ___
 
 # 🌞 Previous Study Records
 
-## 1st Study 
+## ☑ 1st Study 
 - Participants : 유하영, 황현태, 오원준
 - Duration : 2024.01.02 ~ 2024.03.17
   
