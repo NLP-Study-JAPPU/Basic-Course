@@ -10,8 +10,7 @@
 **나보영** -  양방향 LSTM 기반 한국어 음성 비속어 - 04.14 </br>
 **채주완** -  BERT 논문 - 04.14 </br>
 
-
-
+___
 
 ## 2nd Study 
 ## 1st Study 
@@ -31,7 +30,12 @@
 |4주차|Attention|구현발표|황현태|2024/04/07|**완료**
 |4주차|PPL|발표|유하영|2024/04/07|**완료**
 
-</br>
+</br></br>
+
+## Paper List
+> https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/paper-list/paper_list.md
+
+</br></br>
 
 ## 1st Study 
 - Participants : 유하영, 황현태, 오원준
@@ -49,9 +53,7 @@
 |4주차|Attention|논문발표|황현태|2024/02/25|**완료**
 |5주차|Attention|논문발표|유하영|2024/03/03|**완료**
 
-</br></br>
-## Paper List
-> https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/paper-list/paper_list.md
+
 
 </br>
 
