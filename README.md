@@ -1,8 +1,4 @@
 # 📰 Basic-Course for NLP
-<p align="center">
-  <img src="https://github.com/NLP-Study-JAPPU/Basic-Course/assets/90309728/4e6b27e7-b39f-47fb-a89a-28c414a69889" width="60%" height="60%">
-</p>
-(참고) - https://github.com/graykode/nlp-tutorial</br>
 
 ## 진행상황
 **유하영** - transformer 논문  - 05.05 </br>
@@ -13,7 +9,6 @@
 ___
 
 ## 2nd Study 
-## 1st Study 
 - Participants : 유하영, 황현태, 나보영, 채주완
 - Duration : 2024.03.18 ~
   
@@ -53,7 +48,12 @@ ___
 |4주차|Attention|논문발표|황현태|2024/02/25|**완료**
 |5주차|Attention|논문발표|유하영|2024/03/03|**완료**
 
+</br></br>
 
+<p align="center">
+  <img src="https://github.com/NLP-Study-JAPPU/Basic-Course/assets/90309728/4e6b27e7-b39f-47fb-a89a-28c414a69889" width="60%" height="60%">
+</p>
+(참고) - https://github.com/graykode/nlp-tutorial</br>
 
 </br>
 
