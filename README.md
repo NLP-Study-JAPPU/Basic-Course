@@ -14,6 +14,10 @@
 
 
 ## 2nd Study 
+## 1st Study 
+- Participants : 유하영, 황현태, 나보영, 채주완
+- Duration : 2024.03.18 ~
+  
 |Week|Title|Type|Presenter|Date|Note|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1주차|2nd OT|  |유하영|2024/03/18|**완료**
@@ -30,8 +34,9 @@
 </br>
 
 ## 1st Study 
-- Member : 유하영, 황현태, 오원준
-- Date : 2024.01.02 ~ 2024.03.17
+- Participants : 유하영, 황현태, 오원준
+- Duration : 2024.01.02 ~ 2024.03.17
+  
 |Week|Title|Type|Presenter|Date|Note|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1주차|1st OT|  |유하영|2024/01/02|**완료**
