@@ -8,7 +8,7 @@
 
 ___
 
-## 2nd Study 
+## ☑ 2nd Study 
 - Participants : 유하영, 황현태, 나보영, 채주완
 - Duration : 2024.03.18 ~
   
