@@ -94,7 +94,7 @@
   > - Presentor : 채주완
 
 - #### 12 : BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-  > [Paper](https://arxiv.org/pdf/1810.04805.pdf#page=11&zoom=100,402,182), [Presentation]([Presentations/bert.pdf](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/bert.pdf))</br> 
+  > [Paper](https://arxiv.org/pdf/1810.04805.pdf#page=11&zoom=100,402,182), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/bert.pdf)</br> 
   > Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 4171–4186, Minneapolis, Minnesota. Association for Computational Linguistics.
   > - Keywords : `Pre-training`, `Transformer`
   > - Date : 2024.04.14
