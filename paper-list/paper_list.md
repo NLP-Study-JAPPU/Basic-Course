@@ -87,7 +87,7 @@
   > - Presentor : 나보영
 
 - #### 11 : Attention Is All You Need
-  > [Paper](https://arxiv.org/pdf/1706.03762.pdf), [Presentation](Presentations/Attention세부.pdf)</br> 
+  > [Paper](https://arxiv.org/pdf/1706.03762.pdf), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/Attention%EC%84%B8%EB%B6%80.pdf)</br> 
   > VASWANI, Ashish, et al. Attention is all you need. Advances in neural information processing systems, 2017, 30.
   > - Keywords : `Transformer`
   > - Date : 2024.04.07
