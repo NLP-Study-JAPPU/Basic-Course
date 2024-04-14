@@ -80,10 +80,10 @@
   > - Presentor : 채주완
 
 - #### 10 : Attention Is All You Need
-  > [Paper](https://arxiv.org/pdf/1706.03762.pdf), [Presentation]()</br> 
+  > [Paper](https://arxiv.org/pdf/1706.03762.pdf), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/Transformer_%EB%82%98%EB%B3%B4%EC%98%81.pdf)</br> 
   > VASWANI, Ashish, et al. Attention is all you need. Advances in neural information processing systems, 2017, 30.
   > - Keywords : `Transformer`
-  > - Date : 2024.04.01
+  > - Date : 2024.03.31, 2024.04.07
   > - Presentor : 나보영
 
 - #### 11 : Attention Is All You Need
@@ -99,4 +99,11 @@
   > - Keywords : `Pre-training`, `Transformer`
   > - Date : 2024.04.14
   > - Presentor : 채주완
+
+- #### 13 : 양방향 LSTM 기반 한국어 음성 비속어
+  > [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11699989&language=ko_KR&hasTopBanner=true), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/7f3e6c32711abd418428c80d2fc1ca0d4edd3357/Presentations/%EC%96%91%EB%B0%A9%ED%96%A5-LSTM-%EA%B8%B0%EB%B0%98--%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9D%8C%EC%84%B1-%EB%B9%84%EC%86%8D%EC%96%B4-%ED%95%84%ED%84%B0%EB%A7%81_%EB%82%98%EB%B3%B4%EC%98%81.pdf)</br> 
+  > 김혜영, 이영우, 서지헌, 박성민, 김현우, 박영진. (2024). 양방향 LSTM 기반 한국어 음성 비속어 필터링. 멀티미디어학회논문지, 27(1), 126-133, 10.9717/kmms.2024.27.1.126
+  > - Keywords : `Online Language Violence` , `Deep Learning`, `Speech-to-Text`, `Bidirectional LSTM`
+  > - Date : 2024.04.14
+  > - Presentor : 나보영
 
