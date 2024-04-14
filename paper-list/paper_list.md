@@ -86,3 +86,17 @@
   > - Date : 2024.04.01
   > - Presentor : 나보영
 
+- #### 11 : Attention Is All You Need
+  > [Paper](https://arxiv.org/pdf/1706.03762.pdf), [Presentation](Presentations/Attention세부.pdf)</br> 
+  > VASWANI, Ashish, et al. Attention is all you need. Advances in neural information processing systems, 2017, 30.
+  > - Keywords : `Transformer`
+  > - Date : 2024.04.07
+  > - Presentor : 채주완
+
+- #### 12 : BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+  > [Paper](https://arxiv.org/pdf/1810.04805.pdf#page=11&zoom=100,402,182), [Presentation](Presentations/bert.pdf)</br> 
+  > Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 4171–4186, Minneapolis, Minnesota. Association for Computational Linguistics.
+  > - Keywords : `Pre-training`, `Transformer`
+  > - Date : 2024.04.14
+  > - Presentor : 채주완
+
