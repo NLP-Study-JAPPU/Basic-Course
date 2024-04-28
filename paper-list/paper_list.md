@@ -107,3 +107,9 @@
   > - Date : 2024.04.14
   > - Presentor : 나보영
 
+- #### 14 : Improving Language Understanding by Generative Pre-Training
+  > [Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf), [Presentation]()</br> 
+  > Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever. (2018). Radford, Alec and Karthik Narasimhan. “Improving Language Understanding by Generative Pre-Training.” (2018).
+  > - Keywords : `Generative Pre-Training` , `Language Models`, `Natural Language Understanding`
+  > - Date : 2024.04.28
+  > - Presentor : 채주완
