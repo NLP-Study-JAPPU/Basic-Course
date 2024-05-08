@@ -113,3 +113,10 @@
   > - Keywords : `Generative Pre-Training` , `Language Models`, `Natural Language Understanding`
   > - Date : 2024.04.28
   > - Presentor : 채주완
+
+- #### 15 : Attention Is All You Need
+  > [Paper](https://arxiv.org/pdf/1706.03762.pdf), [Presentation]()</br> 
+  > VASWANI, Ashish, et al. Attention is all you need. Advances in neural information processing systems, 2017, 30.
+  > - Keywords : `Transformer`
+  > - Date : 2024.05.05
+  > - Presentor : 유하영
