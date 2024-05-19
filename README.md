@@ -5,12 +5,12 @@
 **황현태** -  생성 요약 - 05.19 </br>
 **나보영** -  BERT - 05.12 </br>
 **채주완** -   ???  - 05.12 </br>
-**조태완** - Sequence Modeling with State Space Models - 05.19 </br>
+**조태완** - Sequence Modeling with State Space Models - 05.26 </br>
 
 ___
 
 ## ☑ 2nd Study 
-- Participants : 유하영, 황현태, 나보영, 채주완
+- Participants : 유하영, 황현태, 나보영, 채주완, 조태완
 - Duration : 2024.03.18 ~
   
 |Week|Title|Type|Presenter|Date|Note|
@@ -31,6 +31,10 @@ ___
 |6주차|GPT|논문발표|채주완|2024/04/28|**완료**
 |7주차|Transformer|논문발표|유하영|2024/05/05|**완료**
 |7주차|electra|논문발표|조태완|2024/05/05|**완료**
+|8주차|Transformer|논문발표|유하영|2024/05/19|**완료**
+|8주차|Transformer-XL|논문발표|채주완|2024/05/19|**완료**
+|8주차|BERT|논문발표|나보영|2024/05/19|**완료**
+|8주차|GPt-4o 요약|기술발표|황현태|2024/05/19|**완료**
 
 
 </br>
