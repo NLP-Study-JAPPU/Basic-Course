@@ -1,10 +1,10 @@
 # 📰 Basic-Course for NLP
 
 ## 😎 진행상황
-**유하영** -  BERT/GPT - 05.26~06.02 </br>
+**유하영** -  BERT/GPT - 06.02 </br>
 **황현태** -  KoBART 논문발표 - 06.09 </br>
 **나보영** -  <  > - 06.02 </br>
-**조태완** - Sequence Modeling with State Space Models - 05.26 </br>
+**조태완** - <  > - 06.02 </br>
 
 ___
 
