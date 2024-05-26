@@ -120,3 +120,17 @@
   > - Keywords : `Transformer`
   > - Date : 2024.05.05, 2024.05.19
   > - Presentor : 유하영
+
+- #### 16 : ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
+  > [Paper](https://openreview.net/pdf?id=r1xMH1BtvB), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/ELECTRA_%EC%A1%B0%ED%83%9C%EC%99%84.pdf)</br> 
+  > Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning. (2020). Clark, Kevin, Minh-Thang Luong, Quoc V. Le, and Christopher D. Manning. “ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators.” (2020).
+  > - Keywords : `ELECTRA`, `BERT`, `Transformer`
+  > - Date : 2024.05.05
+  > - Presentor : 조태완
+
+- #### 17 : Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+  > [Paper](https://arxiv.org/abs/2312.00752), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/Sequence_Modeling_with_State_Space_Models_%E1%84%90%E1%85%A2%E1%84%8B%E1%85%AA%E1%86%AB.pdf)</br> 
+  > Albert Gu, Tri Dao. (2023). Gu, Albert and Dao, Tri. “Mamba: Linear-Time Sequence Modeling with Selective State Spaces.” (2023).
+  > - Keywords : `Linear-Time Sequence Modeling`, `Selective State Spaces`, `HiPPO`, `S3`, `S4`, `S4`, `Mamba`,   
+  > - Date : 2024.05.26
+  > - Presentor : 조태완
