@@ -131,6 +131,13 @@
 - #### 17 : Mamba: Linear-Time Sequence Modeling with Selective State Spaces
   > [Paper](https://arxiv.org/abs/2312.00752), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/Sequence_Modeling_with_State_Space_Models_%E1%84%90%E1%85%A2%E1%84%8B%E1%85%AA%E1%86%AB.pdf)</br> 
   > Albert Gu, Tri Dao. (2023). Gu, Albert and Dao, Tri. “Mamba: Linear-Time Sequence Modeling with Selective State Spaces.” (2023).
-  > - Keywords : `Linear-Time Sequence Modeling`, `Selective State Spaces`, `HiPPO`, `S3`, `S4`, `S4`, `Mamba`,   
+  > - Keywords : `Linear-Time Sequence Modeling`, `Selective State Spaces`, `HiPPO`, `S3`, `S4`, `S4`, `Mamba`
   > - Date : 2024.05.26
+  > - Presentor : 조태완
+
+- #### 18 : Learning Transferable Visual Models From Natural Language Supervision
+  > [Paper](https://arxiv.org/abs/2103.00020), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/CLIP_%E1%84%8C%E1%85%A9%E1%84%90%E1%85%A2%E1%84%8B%E1%85%AA%E1%86%AB.pdf)</br> 
+  > Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., Sastry, G., Askell, A., Mishkin, P., Clark, J., Krueger, G., & Sutskever, I. (2021). Learning transferable visual models from natural language supervision.” (2021).
+  > - Keywords : `CLIP`, `Constrastive Learning`, `ViT`, `Multimodal AI`, `LLM`
+  > - Date : 2024.06.30
   > - Presentor : 조태완
