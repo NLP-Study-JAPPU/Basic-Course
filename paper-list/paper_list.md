@@ -141,3 +141,10 @@
   > - Keywords : `CLIP`, `Constrastive Learning`, `ViT`, `Multimodal AI`, `LLM`
   > - Date : 2024.06.30
   > - Presentor : 조태완
+
+- #### 19 : AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes
+  > [Paper](https://arxiv.org/abs/2103.00020), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/CLIP_%E1%84%8C%E1%85%A9%E1%84%90%E1%85%A2%E1%84%8B%E1%85%AA%E1%86%AB.pdf)</br> 
+  > Choi, J., Jin, K., Lee, J., Song, S., & Kim, Y. (2024). AutoAugment Is What You Need: Enhancing Rule-based Augmentation Methods in Low-resource Regimes. arXiv preprint arXiv:2402.05584.
+  > - Keywords : `EDA`, `AutoAugment`
+  > - Date : 2024.07.07
+  > - Presentor : 유하영
