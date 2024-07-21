@@ -148,3 +148,10 @@
   > - Keywords : `EDA`, `AutoAugment`
   > - Date : 2024.07.07
   > - Presentor : 유하영
+
+- #### 20 : BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
+  > [Paper](https://arxiv.org/abs/2301.12597), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/BLIP-2_%E1%84%8C%E1%85%A9%E1%84%90%E1%85%A2%E1%84%8B%E1%85%AA%E1%86%AB.pdf)</br> 
+  > Junnan Li, Dongxu Li, Silvio Savarese & Steven Hoi, I. (2023). BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models” (2021).
+  > - Keywords : `BLIP`, `BLIP-2`, `Constrastive Learning`, `Q-Former`, `Multimodal AI`, `LLM`
+  > - Date : 2024.07.21
+  > - Presentor : 조태완
