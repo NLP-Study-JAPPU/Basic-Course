@@ -155,3 +155,10 @@
   > - Keywords : `BLIP`, `BLIP-2`, `Constrastive Learning`, `Q-Former`, `Multimodal AI`, `LLM`
   > - Date : 2024.07.21
   > - Presentor : 조태완
+  >
+- #### 21 : BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+  > [Paper](https://arxiv.org/pdf/1810.04805), [Presentation]()</br> 
+  > Devlin, Jacob, et al. "Bert: Pre-training of deep bidirectional transformers for language understanding." arXiv preprint arXiv:1810.04805 (2018).
+  > - Keywords : `BERT`
+  > - Date : 2024.08.04
+  > - Presentor : 유하영
