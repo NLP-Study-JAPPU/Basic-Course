@@ -164,7 +164,7 @@
   > - Presentor : 유하영
 
 - #### 22 : BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
-  > [Paper]([https://arxiv.org/pdf/1810.04805](https://arxiv.org/pdf/1910.13461)), [Presentation]()</br> 
+  > [Paper](https://arxiv.org/pdf/1910.13461), [Presentation]()</br> 
   > Lewis, Mike, et al. "Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension." arXiv preprint arXiv:1910.13461 (2019).
   > - Keywords : `BART`
   > - Date : 2024.08.11
