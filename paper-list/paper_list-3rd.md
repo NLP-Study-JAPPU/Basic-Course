@@ -8,3 +8,10 @@
   > - Date : 2024.10.27
   > - Presentor : 유하영
 
+- #### 02 : GPT-1 : Improving Language Understanding by Generative Pre-Training
+  > [Paper](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/GPT-1_%E1%84%92%E1%85%AA%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB%E1%84%90%E1%85%A2.pdf)
+  > Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever
+  >
+  > - Keywords : `GPT-1`
+  > - Date : 2024.10.27
+  > - Presentor : 황현태
