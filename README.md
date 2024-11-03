@@ -1,8 +1,8 @@
 # 📰 Basic-Course for NLP
 
 ## 😎 진행상황
-**유하영** - Layer Normalization - 11.03 </br>
-**황현태** - BLIP - 11.19  </br>
+**유하영** - BLIP - 11.03 </br>
+**황현태** -  - 11.19  </br>
 **이정** - A Neural Probabilistic Language Model - 11.12 </br>
 
 ___
