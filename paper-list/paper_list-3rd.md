@@ -16,10 +16,26 @@
   > - Date : 2024.10.27
   > - Presentor : 황현태
 
-- #### 03 : A Neural Probabilistic Language Model
+- #### 03 : Layer Normalization
+  > [Paper](https://arxiv.org/abs/1607.06450), [Presentation]()
+  > Lei Ba, Jimmy, Jamie Ryan Kiros, and Geoffrey E. Hinton.
+  >
+  > - Keywords : `LayerNormalizaiton`
+  > - Date : 2024.11.03
+  > - Presentor : 유하영
+  
+- #### 04 : A Neural Probabilistic Language Model
   > [Paper](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf), [Presentation]()
   > Yoshua Bengio, Réjean Ducharme, Pascal Vincent, Christian Jauvin
   >
   > - Keywords : `NPLM`
   > - Date : 2024.11.03
   > - Presentor : 이정
+
+- #### 05 : Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+  > [Paper](https://arxiv.org/abs/2005.11401), [Presentation]()
+  > Lewis, Patrick, et al.
+  >
+  > - Keywords : `RAG`
+  > - Date : 2024.11.19
+  > - Presentor : 유하영
