@@ -17,7 +17,7 @@
   > - Presentor : 황현태
 
 - #### 03 : Layer Normalization
-  > [Paper](https://arxiv.org/abs/1607.06450), [Presentation]()
+  > [Paper](https://arxiv.org/abs/1607.06450), [Presentation]() <br>
   > Lei Ba, Jimmy, Jamie Ryan Kiros, and Geoffrey E. Hinton.
   >
   > - Keywords : `LayerNormalizaiton`
