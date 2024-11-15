@@ -33,8 +33,8 @@
   > - Presentor : 이정
 
 - #### 05 : Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
-  > [Paper](https://arxiv.org/abs/2005.11401), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/RAG-%EC%9C%A0%ED%95%98%EC%98%81.pdf)
-  > Lewis, Patrick, et al. <br>
+  > [Paper](https://arxiv.org/abs/2005.11401), [Presentation](https://github.com/NLP-Study-JAPPU/Basic-Course/blob/main/Presentations/RAG-%EC%9C%A0%ED%95%98%EC%98%81.pdf) <br>
+  > Lewis, Patrick, et al. 
   >
   > - Keywords : `RAG`
   > - Date : 2024.11.19
