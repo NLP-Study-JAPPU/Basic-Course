@@ -39,3 +39,11 @@
   > - Keywords : `RAG`
   > - Date : 2024.11.19
   > - Presentor : 유하영
+
+- #### 06 : NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
+  > [Paper](https://arxiv.org/abs/1409.0473), [Presentation]() <br>
+  > Dzmitry Bahdanau, KyungHyun Cho, & Yoshua Bengio
+  >
+  > - Keywords : `Attention`
+  > - Date : 2024.11.19
+  > - Presentor : 이정
